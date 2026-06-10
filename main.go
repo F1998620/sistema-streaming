@@ -38,11 +38,8 @@ func main() {
 	opcion := ""
 
 	for opcion != "14" {
-		fmt.Println("\n=================================")
-		fmt.Println(" PLATAFORMA DE STREAMING ")
-		fmt.Println(" AVANCE DEL SISTEMA: 75% ")
+		fmt.Println(" PLATAFORMA DE STREAMING LYON ")
 		fmt.Println(" Fecha:", time.Now().Format("02/01/2006 15:04"))
-		fmt.Println("=================================")
 		fmt.Println("1. Registrar Usuario")
 		fmt.Println("2. Ver Usuarios")
 		fmt.Println("3. Buscar Usuario")
