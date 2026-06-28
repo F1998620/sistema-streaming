@@ -1,6 +1,6 @@
-# 🎬 Sistema de Gestión para Plataforma de Streaming
+ Sistema de Gestión para Plataforma de Streaming
 
-## 📖 Descripción
+Descripción
 
 Este proyecto consiste en el desarrollo de un **Sistema de Gestión para una Plataforma de Streaming**, implementado en el lenguaje de programación **Go (Golang)**.
 
@@ -8,7 +8,7 @@ La aplicación integra una **API REST**, una **base de datos MySQL** y el framew
 
 ---
 
-# 🎯 Objetivo
+ Objetivo
 
 Desarrollar una aplicación que integre los conocimientos adquiridos durante la asignatura, aplicando:
 
@@ -22,7 +22,7 @@ Desarrollar una aplicación que integre los conocimientos adquiridos durante la 
 
 ---
 
-# 🛠 Tecnologías utilizadas
+ Tecnologías utilizadas
 
 * Go (Golang)
 * Gin Gonic
@@ -35,7 +35,7 @@ Desarrollar una aplicación que integre los conocimientos adquiridos durante la 
 
 ---
 
-# 🏗 Arquitectura del proyecto
+Arquitectura del proyecto
 
 ```
 Sistema Streaming
@@ -62,9 +62,9 @@ Sistema Streaming
 
 ---
 
-# 📡 Servicios REST implementados
+ Servicios REST implementados
 
-## Usuarios
+ Usuarios
 
 | Método | Endpoint       | Descripción                |
 | ------ | -------------- | -------------------------- |
@@ -75,7 +75,7 @@ Sistema Streaming
 
 ---
 
-## Contenidos
+ Contenidos
 
 | Método | Endpoint         | Descripción          |
 | ------ | ---------------- | -------------------- |
@@ -86,7 +86,7 @@ Sistema Streaming
 
 ---
 
-## Suscripciones
+Suscripciones
 
 | Método | Endpoint            | Descripción            |
 | ------ | ------------------- | ---------------------- |
@@ -97,7 +97,7 @@ Sistema Streaming
 
 ---
 
-## Estadísticas
+Estadísticas
 
 | Método | Endpoint      |
 | ------ | ------------- |
@@ -105,7 +105,7 @@ Sistema Streaming
 
 ---
 
-# 🗄 Base de datos
+Base de datos
 
 Nombre de la base de datos:
 
@@ -120,8 +120,7 @@ Tablas implementadas:
 * suscripciones
 
 ---
-
-# ▶️ Ejecución del proyecto
+ Ejecución del proyecto
 
 Instalar dependencias:
 
@@ -142,8 +141,7 @@ http://localhost:8080
 ```
 
 ---
-
-# ✅ Funcionalidades implementadas
+ Funcionalidades implementadas
 
 * CRUD de Usuarios.
 * CRUD de Contenidos.
@@ -157,26 +155,3 @@ http://localhost:8080
 
 ---
 
-# 📷 Evidencias del proyecto
-
-Se recomienda agregar capturas de:
-
-* API ejecutándose.
-* Thunder Client.
-* MySQL Workbench.
-* GitHub.
-* Estadísticas del sistema.
-
----
-
-# 👨‍💻 Autor
-
-Francis Leon
-
-Estudiante de Ingeniería en Ciberseguridad
-
----
-
-# 📅 Fecha
-
-28 Junio 2026
